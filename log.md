@@ -7,5 +7,5 @@
 **Thoughts:** I'm very comfortable coding simply with JavaScript, but I want to push myself and make more websites with different frameworks so that I can showcase that I have multiple projects with different frameworks under my belt. 
 
 **Link to work:** 
-[Personal Portfolio Website](https://kywebb.netlify.app)
-1. [Created a Todo App](https://learnjavascript.online/app.html?id=1668)
+1. [Personal Portfolio Website](https://kywebb.netlify.app)
+2. [Created a Todo App](https://learnjavascript.online/app.html?id=1668)
