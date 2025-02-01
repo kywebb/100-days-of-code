@@ -4,8 +4,13 @@
 
 **Today's Progress**: Fixed portfolio website. Updated it with more client websites for potential employers to see. 
 
-**Thoughts:** I'm very comfortable coding simply with JavaScript, but I want to push myself and make more websites with different frameworks so that I can showcase that I have multiple projects with different frameworks under my belt. 
+**Thoughts:** I'm very comfortable coding simply with JavaScript since most of my clients don't need substantially big websites where I must rely on a framework, but I want to push myself and make more websites with different frameworks to see which one's I like the best. 
+
+I am used a tutorial that is helping me stay up-to-date with the new JS in case I have the opportunity incorporate any of the handy features into my coding projects.
+
+My goal is to do every single easy Leetcode problem, so here we go!
 
 **Link to work:** 
 1. [Personal Portfolio Website](https://kywebb.netlify.app)
 2. [Created a Todo App](https://learnjavascript.online/app.html?id=1668)
+3. [Solved a Leetcode Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1527191345/)
