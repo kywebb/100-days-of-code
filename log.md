@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 31st, 2025 
+### Day 0: January 31, 2025 
 
 **Today's Progress**: Fixed portfolio website. Updated it with more client websites for potential employers to see. 
 
@@ -14,3 +14,15 @@ My goal is to do every single easy Leetcode problem, so here we go!
 1. [Personal Portfolio Website](https://kywebb.netlify.app)
 2. [Created a Todo App](https://learnjavascript.online/app.html?id=1668)
 3. [Solved a Leetcode Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1527191345/)
+
+### Day 1: February 1, 2025 
+
+**Today's Progress**: Started building a counter application and I'll continue it tomorrow. 
+I also did some JavaScript problems. 
+
+**Thoughts:** Something is really wrong with my react dependencies. The testing
+and the react itself are off and it keeps creating an extra JSON file, so I have to keep deleting it. 
+
+
+**Link to work:** 
+1. [Counter App](https://codepen.io/kyglo/pen/gbYyRyR)
