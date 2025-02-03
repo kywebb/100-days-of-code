@@ -17,7 +17,7 @@ My goal is to do every single easy Leetcode problem, so here we go!
 
 ### Day 1: February 1, 2025 
 
-**Today's Progress**: Started building a counter application and I'll continue it tomorrow. 
+**Today's Progress**: Started building a counter application and worked on sharpening my JavaScript skills. 
 I also did some JavaScript problems. 
 
 **Thoughts:** Something is really wrong with my react dependencies. The testing
@@ -26,3 +26,18 @@ and the react itself are off and it keeps creating an extra JSON file, so I have
 
 **Link to work:** 
 1. [Counter App](https://codepen.io/kyglo/pen/gbYyRyR)
+
+### Day 2: February 2, 2025 
+
+**Today's Progress**: Built a box dispatcher program to separate boxes based on weight. I 
+also worked on sharpening my JavaScript skills with Promises and JSON. 
+
+**Thoughts:** I really enjoy coding in Python compared to JavaScript. It's so seamless, quick and 
+intuitive. What bothers me about JavaScript is that they have five different ways to write a function.
+Why do you need five different ways to simply write a function?!
+
+
+**Link to work:** 
+1. [Box-Dispatcher-App](https://replit.com/@runnerwebb/Dispatch-Packages-Program#main.py)
+
+
