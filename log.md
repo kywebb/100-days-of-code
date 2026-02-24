@@ -89,3 +89,15 @@ Diving into some Kubernetes and the Cloud Native Environment to better understan
 2. [Cloudflare Prep Doc](https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
 3. [Leetcode Problem: Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 4. [Kubernetes Webinar](https://youtu.be/XNZvGHlpJ_4?si=emhZ3xUgSly8xrzW)
+
+### Day 5: February 24, 2026
+
+**Today's Progress**: 
+Diving into some Kubernetes and the Cloud Native Environment to better understand Cloudflare's setup. 
+
+Alysa Liu's Ice Skating performance at the Olympics not only brought me to actual tears seeing her shine after countless hours of practice that lead to her performance at the Olympics, but it was a massive encouragement for me to always try to adopt her same type of attitude, passion for what she does, and her mindset as she competed for her country. My goal is to carry those same qualities into my career as a Software Engineer and in all that I do. My goal is not "to win" or "out-compete" others, but rather to do what I love while having fun for the benefit of myself and all those around me. 
+
+
+**Link to work:** 
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [Video Inspiring Excellence: Alysa Liu](https://youtu.be/Dg0h9iZ1ZAg?si=cHzi8TkR-oWxYnHT)
