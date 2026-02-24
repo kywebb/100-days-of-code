@@ -85,7 +85,7 @@ Getting more direction and narrowing down what I need to focus on.
 Diving into some Kubernetes and the Cloud Native Environment to better understand Cloudflare's setup.
 
 **Link to work:** 
-1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
-2. [Cloudflare Prep Doc] (https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
-3. [Leetcode Problem: Length of Last Word] (https://leetcode.com/problems/length-of-last-word/)
-4. [Kubernetes Webinar] (https://www.youtube.com/watch time_continue=1489&v=XNZvGHlpJ_4&embeds_referring_euri=https%3A%2F%2Fkubernetes.io%2F&source_ve_path=MjM4NTE)
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [Cloudflare Prep Doc](https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
+3. [Leetcode Problem: Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+4. [Kubernetes Webinar](https://www.youtube.com/watch time_continue=1489&v=XNZvGHlpJ_4&embeds_referring_euri=https%3A%2F%2Fkubernetes.io%2F&source_ve_path=MjM4NTE)
