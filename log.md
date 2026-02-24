@@ -34,8 +34,8 @@ Making considerable progress on the JavaScript course I paid for. I'm learning a
 
 
 **Link to work:** 
-1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
-2. [Reviewed JavaScript Flashcards] (https://flash.learnjavascript.online/home)
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [Reviewed JavaScript Flashcards](https://flash.learnjavascript.online/home)
 
 
 ### Day 1: February 20, 2026
@@ -45,9 +45,9 @@ Getting back into Leetcode problems.
 
 
 **Link to work:** 
-1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
-2. [Cloudflare Prep Doc] (https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
-3. [Leetcode Problem] (https://leetcode.com/problems/remove-element/)
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [Cloudflare Prep Doc](https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
+3. [Leetcode Problem](https://leetcode.com/problems/remove-element/)
 
 
 ### Day 2: February 21, 2026
@@ -57,12 +57,12 @@ Reviewing deeply time complexity, data structures in relation to Cloudflare.
 
 
 **Link to work:** 
-1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
-2. [Cloudflare Prep Doc] (https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
-3. [Leetcode Problem] ([https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/))
-4. [Leetcode Problem] (https://leetcode.com/problems/group-anagrams/description/)
-5. [Cloudflare article] (https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
-6. [Cloudflare article] (https://blog.cloudflare.com/tcp-resets-timeouts/)
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [Cloudflare Prep Doc](https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
+3. [Leetcode Problem]([https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/))
+4. [Leetcode Problem](https://leetcode.com/problems/group-anagrams/description/)
+5. [Cloudflare article: Linux Transport Protocol Port Selection Performance](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
+6. [Cloudflare article: TCP Resets & Timeouts](https://blog.cloudflare.com/tcp-resets-timeouts/)
 
 
 ### Day 3: February 22, 2026
@@ -73,10 +73,10 @@ Getting more direction and narrowing down what I need to focus on.
 
 **Link to work:** 
 1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
-2. [Cloudflare Prep Doc] (https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
-3. [Leetcode Problem] (https://leetcode.com/problems/search-insert-position/description/)
-4. [Cloudflare article] (https://blog.cloudflare.com/traffic-control-live-demo/)
-5. [Cloudflare article] (https://blog.cloudflare.com/workers-production-safety/)
+2. [Cloudflare Prep Doc](https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
+3. [Leetcode Problem](https://leetcode.com/problems/search-insert-position/description/)
+4. [Cloudflare article: Traffic Control Live Demo](https://blog.cloudflare.com/traffic-control-live-demo/)
+5. [Cloudflare article: Workers Production Safety](https://blog.cloudflare.com/workers-production-safety/)
 
 
 ### Day 4: February 23, 2026
@@ -87,5 +87,5 @@ Diving into some Kubernetes and the Cloud Native Environment to better understan
 **Link to work:** 
 1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
 2. [Cloudflare Prep Doc] (https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
-3. [Leetcode Problem] (https://leetcode.com/problems/length-of-last-word/)
+3. [Leetcode Problem: Length of Last Word] (https://leetcode.com/problems/length-of-last-word/)
 4. [Kubernetes Webinar] (https://www.youtube.com/watch time_continue=1489&v=XNZvGHlpJ_4&embeds_referring_euri=https%3A%2F%2Fkubernetes.io%2F&source_ve_path=MjM4NTE)
