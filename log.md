@@ -77,4 +77,15 @@ Getting more direction and narrowing down what I need to focus on.
 3. [Leetcode Problem] (https://leetcode.com/problems/search-insert-position/description/)
 4. [Cloudflare article] (https://blog.cloudflare.com/traffic-control-live-demo/)
 5. [Cloudflare article] (https://blog.cloudflare.com/workers-production-safety/)
-   
+
+
+### Day 4: February 23, 2026
+
+**Today's Progress**: 
+Diving into some Kubernetes and the Cloud Native Environment to better understand Cloudflare's setup.
+
+**Link to work:** 
+1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
+2. [Cloudflare Prep Doc] (https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
+3. [Leetcode Problem] (https://leetcode.com/problems/length-of-last-word/)
+4. [Kubernetes Webinar] (https://www.youtube.com/watch time_continue=1489&v=XNZvGHlpJ_4&embeds_referring_euri=https%3A%2F%2Fkubernetes.io%2F&source_ve_path=MjM4NTE)
