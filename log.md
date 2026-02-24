@@ -72,7 +72,7 @@ Getting more direction and narrowing down what I need to focus on.
 
 
 **Link to work:** 
-1. [Worked on Javascript Skills] (https://learnjavascript.online/app.html?id=1780)
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
 2. [Cloudflare Prep Doc](https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
 3. [Leetcode Problem](https://leetcode.com/problems/search-insert-position/description/)
 4. [Cloudflare article: Traffic Control Live Demo](https://blog.cloudflare.com/traffic-control-live-demo/)
