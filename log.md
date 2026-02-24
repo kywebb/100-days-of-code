@@ -59,7 +59,7 @@ Reviewing deeply time complexity, data structures in relation to Cloudflare.
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
 2. [Cloudflare Prep Doc](https://docs.google.com/document/d/1PTf6JCcBgTk1nYoZ6G39s1tFsZc_5k3889bD88pUmZ0/edit?usp=sharing)
-3. [Leetcode Problem]([https://leetcode.com/problems/remove-element/]
+3. [Leetcode Problem](https://leetcode.com/problems/remove-element/)
 4. [Leetcode Problem](https://leetcode.com/problems/group-anagrams/description/)
 5. [Cloudflare article: Linux Transport Protocol Port Selection Performance](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
 6. [Cloudflare article: TCP Resets & Timeouts](https://blog.cloudflare.com/tcp-resets-timeouts/)
