@@ -103,3 +103,45 @@ Alysa Liu's Ice Skating performance at the Olympics not only brought me to actua
 2. [Video Inspiring Excellence: Alysa Liu](https://youtu.be/Dg0h9iZ1ZAg?si=cHzi8TkR-oWxYnHT)
 3. [Cloudflare video: Workflows Pt 1](https://youtu.be/slS4RBV0SBk)
 4. [Cloudflare video: Workflows Pt 2](https://youtu.be/y4PPsvHrQGA)
+
+
+### Day 6: February 25, 2026
+
+**Today's Progress**: 
+Getting better and better at JavaScript.
+
+**Link to work:** 
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+
+### Day 7: February 26, 2026
+
+**Today's Progress**: 
+Getting better and better at JavaScript.
+
+**Link to work:** 
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+
+### Day 8: February 27, 2026
+
+**Today's Progress**: 
+Getting better and better at JavaScript.
+
+**Link to work:** 
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+
+
+### Day 9: February 28, 2026
+
+**Today's Progress**: 
+Getting better and better at JavaScript.
+
+**Link to work:** 
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+
+### Day 10: March 1, 2026
+
+**Today's Progress**: 
+Getting better and better at JavaScript.
+
+**Link to work:** 
+1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
