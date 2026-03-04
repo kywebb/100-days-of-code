@@ -163,6 +163,17 @@ Working on my JavaScript, Data Structures, Algorithms, and problem solving skill
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
 2. [HackerRank Problem: Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search)
 
+### Day 12: March 2, 2026
+
+**Today's Progress**: 
+
+**Link to work:** 
+1. [Cloudflare: Every Cloudflare feature, available to everyone](https://blog.cloudflare.com/enterprise-grade-features-for-all/)
+2. [Cloudflare: Multitenant architecture](https://www.cloudflare.com/learning/cloud/what-is-multitenancy/)
+3. [Cloudflare: What is role-based access control?](https://www.cloudflare.com/learning/access-management/role-based-access-control-rbac/)
+4. [Cloudflare: Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code](https://blog.cloudflare.com/shift-left-enterprise-scale/)
+5. [Cloudflare: Announcing Workers automatic tracing, now in open beta](https://blog.cloudflare.com/workers-tracing-now-in-open-beta/)
+6. [Cloudflare: Security Architecture](https://developers.cloudflare.com/reference-architecture/architectures/security/)
 
 
 ### Day 13: March 3, 2026
