@@ -120,7 +120,7 @@ Alysa Liu's Ice Skating performance at the Olympics not only brought me to actua
 ### Day 6: February 25, 2026
 
 **Today's Progress**: 
-Getting better and better at JavaScript.
+The Cloudflare recruiter let me know they are planning to use Hackerrank for my technical interview. So I'm pivoting from Leetcode problems to Hackerrank to get comfortable and familiar with coding environment and questions ahead of time. I decided to start their Software Engineering Prep Kit because it comes with 55 problems, a mock assessment, and a mock interview for free. Then when I finish, I even get a Software Engineer Certificate to demonstrate my proficiency in Software Engineering. It seems like a wonderful way to prep for the technical interview.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
@@ -129,7 +129,7 @@ Getting better and better at JavaScript.
 ### Day 7: February 26, 2026
 
 **Today's Progress**: 
-Getting better and better at JavaScript.
+Trying to get the most out of my paid JavaScript skills course and really go in depth on a Hackerrank problem. Not simply trying to memorize it, but really to understand it so I can use it with ease in the future.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
@@ -138,7 +138,7 @@ Getting better and better at JavaScript.
 ### Day 8: February 27, 2026
 
 **Today's Progress**: 
-Getting better and better at JavaScript.
+Working on my JavaScript, Data Structures, Algorithms, and problem solving skills.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
@@ -148,7 +148,7 @@ Getting better and better at JavaScript.
 ### Day 9: February 28, 2026
 
 **Today's Progress**: 
-Getting better and better at JavaScript.
+Working on my JavaScript, Data Structures, Algorithms, and problem solving skills.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
@@ -157,7 +157,7 @@ Getting better and better at JavaScript.
 ### Day 10: March 1, 2026
 
 **Today's Progress**: 
-Getting better and better at JavaScript.
+Working on my JavaScript, Data Structures, Algorithms, and problem solving skills.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
