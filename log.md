@@ -159,7 +159,7 @@ Getting better and better at JavaScript.
 I had fun creating a Cloudflare Micro Service using Go Programming and Docker Containerization. I created this and will create more in the future that may mirror the code I would be programming, debugging, etc as a Software Engineer in Enterprise Readiness.
 
 **Link to work:** 
-1. [Created a mock Cloudflare Micro Service](https://github.com/kywebb/cloudflare-micro-service)
+1. [Coded a mock Cloudflare Micro Service](https://github.com/kywebb/cloudflare-micro-service)
 2. [HackerRank Problem: Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search)
 
 
