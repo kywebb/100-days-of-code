@@ -37,6 +37,18 @@ Making considerable progress on the JavaScript course I paid for. I'm learning a
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
 2. [Reviewed JavaScript Flashcards](https://flash.learnjavascript.online/home)
 
+### Day 0: February 19, 2026
+
+**Today's Progress**: 
+Reading links attached to Cloudflare's One Page they sent me in their email requesting to interview me.
+
+**Link to work:** 
+1. [Cloudflare: Athenian Project](https://www.cloudflare.com/athenian/)
+2. [Cloudflare: Project Fair Shot](https://www.cloudflare.com/fair-shot/)
+3. [Cloudflare: Project Cybersafe Schools](https://blog.cloudflare.com/project-cybersafe-schools/)
+4. [Cloudflare: Project Safekeeping](https://blog.cloudflare.com/project-safekeeping/)
+5. [Cloudflare: Project Galileo](https://www.cloudflare.com/galileo/)
+6. [Cloudflare for Campaigns](https://www.cloudflare.com/campaigns/)
 
 ### Day 1: February 20, 2026
 
@@ -161,5 +173,10 @@ I had fun creating a Cloudflare Micro Service using Go Programming and Docker Co
 **Link to work:** 
 1. [Coded a mock Cloudflare Micro Service](https://github.com/kywebb/cloudflare-micro-service)
 2. [HackerRank Problem: Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search)
+3. [Read Cloudflare Article](https://www.linkedin.com/pulse/cloudflare-named-current-company-beat-gartner-report-edge-distribution-zor3c/)
+4. [Read Cloudflare Article](https://www.cloudflare.com/press/press-releases/2025/cloudflare-helps-protect-independent-journalism-and-non-profits-from-ai/)
+5. [Read Cloudflare Article](https://builtin.com/awards/us/2025/best-large-places-to-work?utm_medium=website&utm_source=editorial&utm_campaign=bptw-2025&utm_content=article)
+6. [Read Cloudflare Article](https://www.securityweek.com/cloudflare-blocks-record-11-5-tbps-ddos-attack/)
+7. [Read Cloudflare Article](https://indiscretemusings.substack.com/p/on-cloudflare?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)
 
 
