@@ -112,6 +112,7 @@ Getting better and better at JavaScript.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [HackerRank Problem](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-elements-greater-than-previous-average)
 
 ### Day 7: February 26, 2026
 
@@ -120,6 +121,7 @@ Getting better and better at JavaScript.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [HackerRank Problem](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/find-smallest-missing-positive-integer)
 
 ### Day 8: February 27, 2026
 
@@ -128,6 +130,7 @@ Getting better and better at JavaScript.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [HackerRank Problem](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-palindrome-filter-non-letters)
 
 
 ### Day 9: February 28, 2026
@@ -137,6 +140,7 @@ Getting better and better at JavaScript.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [HackerRank Problem](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-non-identical-string-rotation)
 
 ### Day 10: March 1, 2026
 
@@ -145,3 +149,4 @@ Getting better and better at JavaScript.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
+2. [HackerRank Problem](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search)
