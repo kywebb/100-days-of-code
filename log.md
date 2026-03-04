@@ -120,7 +120,7 @@ Alysa Liu's Ice Skating performance at the Olympics not only brought me to actua
 ### Day 6: February 25, 2026
 
 **Today's Progress**: 
-The Cloudflare recruiter let me know they are planning to use Hackerrank for my technical interview. So I'm pivoting from Leetcode problems to Hackerrank to get comfortable and familiar with coding environment and questions ahead of time. I decided to start their Software Engineering Prep Kit because it comes with 55 problems, a mock assessment, and a mock interview for free. Then when I finish, I even get a Software Engineer Certificate to demonstrate my proficiency in Software Engineering. It seems like a wonderful way to prep for the technical interview.
+The Cloudflare recruiter let me know they are planning to use Hackerrank for my technical interview. So I'm pivoting from Leetcode problems to Hackerrank to get comfortable and familiar with coding environment and questions ahead of time. I decided to start their Software Engineering Prep Kit because it comes with 55 problems, a mock assessment, and a mock interview for free. Then when I finish, I even get a Software Engineer Certificate which further demonstrates my proficiency in Software Engineering. It seems like a wonderful way to prep for the technical interview.
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
