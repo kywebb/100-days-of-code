@@ -163,9 +163,10 @@ Working on my JavaScript, Data Structures, Algorithms, and problem solving skill
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
 2. [HackerRank Problem: Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search)
 
-### Day 12: March 2, 2026
+### Day 11: March 2, 2026
 
 **Today's Progress**: 
+My goal today was familiarize myself with more Cloudfare enterprise tools and freshen up on key concepts so that eventually I apply what I learn in my own personal projects to reflect my understanding. 
 
 **Link to work:** 
 1. [Cloudflare: Every Cloudflare feature, available to everyone](https://blog.cloudflare.com/enterprise-grade-features-for-all/)
@@ -176,7 +177,7 @@ Working on my JavaScript, Data Structures, Algorithms, and problem solving skill
 6. [Cloudflare: Security Architecture](https://developers.cloudflare.com/reference-architecture/architectures/security/)
 
 
-### Day 13: March 3, 2026
+### Day 12: March 3, 2026
 
 **Today's Progress**: 
 I had fun creating a Cloudflare Micro Service using Go Programming and Docker Containerization. I created this and will create more in the future that may mirror the code I would be programming, debugging, etc as a Software Engineer in Enterprise Readiness.
