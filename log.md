@@ -199,14 +199,7 @@ I had fun creating a Cloudflare Micro Service using Go Programming and Docker Co
 
 Scaled my Go-based Enterprise Audit Service from a single local process to a resilient, containerized cluster using Kubernetes.
 
-**Containerization:** 
-Wrote a Dockerfile to package my Go application into a lightweight image.
-**Orchestration:** 
-Authored Kubernetes Deployment manifests to manage a 3-replica set of the service, ensuring high availability.
-**Service Discovery:** 
-Implemented a LoadBalancer service to expose the internal pod network to my local machine on port 80.
-**Health Monitoring:** 
-Refactored the Go source code to include a root-level health check endpoint for liveness probes.
+Wrote a Dockerfile to package my Go application into a lightweight image. Authored Kubernetes Deployment manifests to manage a 3-replica set of the service, ensuring high availability. Implemented a LoadBalancer service to expose the internal pod network to my local machine on port 80. Refactored the Go source code to include a root-level health check endpoint for liveness probes.
 
 **Technical Skills Gained:**
 **K8s Objects:** 
