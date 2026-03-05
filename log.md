@@ -201,16 +201,16 @@ Scaled my Go-based Enterprise Audit Service from a single local process to a res
 
 **Accomplishments**
 
-    1. Containerization: Wrote a Dockerfile to package my Go application into a lightweight image.
-    2. Orchestration: Authored Kubernetes Deployment manifests to manage a 3-replica set of the service, ensuring high availability.
-    3. Service Discovery: Implemented a LoadBalancer service to expose the internal pod network to my local machine on port 80.
-    4. Resilience Testing: Performed "Chaos Engineering" by manually terminating pods and observing the Kubernetes Control Plane automatically reconcile the state and spin up replacements.
-    5. Health Monitoring: Refactored the Go source code to include a root-level health check endpoint for liveness probes.
+    1. [Containerization: Wrote a Dockerfile to package my Go application into a lightweight image.]
+    2. [Orchestration: Authored Kubernetes Deployment manifests to manage a 3-replica set of the service, ensuring high availability.]
+    3. [Service Discovery: Implemented a LoadBalancer service to expose the internal pod network to my local machine on port 80.]
+    4. [Resilience Testing: Performed "Chaos Engineering" by manually terminating pods and observing the Kubernetes Control Plane automatically reconcile the state and spin up replacements.]
+    5. [Health Monitoring: Refactored the Go source code to include a root-level health check endpoint for liveness probes.]
 
 **Technical Skills Gained**
-    1. K8s Objects: Deployments, Services, Pods, and ReplicaSets.
-    2. kubectl CLI: Mastering apply, rollout restart, logs -l, and get pods -w.
-    3. Networking: Mapping external ports (80) to container target ports (8080) via a virtual LoadBalancer.
+    1. [K8s Objects: Deployments, Services, Pods, and ReplicaSets.]
+    2. [kubectl CLI: Mastering apply, rollout restart, logs -l, and get pods -w.]
+    3. [Networking: Mapping external ports (80) to container target ports (8080) via a virtual LoadBalancer.]
 
 **Link to work:** 
 
