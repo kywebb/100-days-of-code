@@ -213,4 +213,15 @@ Mapping external ports (80) to container target ports (8080) via a virtual LoadB
 
 1. [Coded a mock Cloudflare Micro Service](https://github.com/kywebb/cloudflare-micro-service)
 
+### Day 14: March 5, 2026
+
+**Today's Progress**: 
+
+Went over System Design concepts and Cloudflare's Architectural Doc. Having fun with my RBAC system. Solved some problems and learned more about Cloudflare. 
+
+**Link to work:** 
+1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
+2. [Cloudflare's Reference Architecture](https://developers.cloudflare.com/reference-architecture/)
+3. [HackerRank: Find First Occurrence](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/first-occurrence-in-event-code-log/problem?isFullScreen=true)
+4. [Medium Article on Cloudflare](https://indiscretemusings.substack.com/p/on-cloudflare?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)
 
