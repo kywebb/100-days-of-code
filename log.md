@@ -225,3 +225,33 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 3. [HackerRank: Find First Occurrence](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/first-occurrence-in-event-code-log/problem?isFullScreen=true)
 4. [Medium Article on Cloudflare](https://indiscretemusings.substack.com/p/on-cloudflare?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)
 
+
+### Day 15: March 6, 2026
+
+**Today's Progress**: 
+1. Successfully coded a solution for Maximum Number of Non-Overlapping Intervals in Hackerrank's Software Engineering Prep Kit
+2. Successfully coded a solution for Validate Properly Nested Brackets in Hackerrank's Software Engineering Prep Kit
+
+**Link to work:** 
+1. [Hackerrank: Maximum Number of Non-Overlapping Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/maximum-non-overlapping-intervals/problem?isFullScreen=true)
+2. [Hackerrank: Validate Properly Nested Brackets](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/validate-properly-nested-brackets/problem?isFullScreen=true)
+
+
+### Day 16: March 7, 2026
+
+**Today's Progress**: 
+1. Successfully coded a solution for Min-Tracking Stack Implementation in Hackerrank's Software Engineering Prep Kit
+2. Successfully coded a solution for One-Pass Removal of k-th Node from End in Hackerrank's Software Engineering Prep Kit
+
+
+**Link to work:** 
+1. [Hackerrank: Min-Tracking Stack Implementation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/min-tracking-stack/problem?isFullScreen=true)
+2. [Hackerrank: One-Pass Removal of k-th Node from End](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/one-pass-removal-kth-from-end/problem?isFullScreen=true)
+
+### Day 17: March 8, 2026
+
+**Today's Progress**: 
+1. Read more of the Medium Article on Cloudflare
+
+**Link to work:** 
+1. [Medium Article](https://indiscretemusings.substack.com/p/on-cloudflare?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)
