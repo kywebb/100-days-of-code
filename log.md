@@ -242,11 +242,13 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 **Today's Progress**: 
 1. Successfully coded a solution for Min-Tracking Stack Implementation in Hackerrank's Software Engineering Prep Kit
 2. Successfully coded a solution for One-Pass Removal of k-th Node from End in Hackerrank's Software Engineering Prep Kit
+3. Started a System Design for creating a ticket master booking system
 
 
 **Link to work:** 
 1. [Hackerrank: Min-Tracking Stack Implementation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/min-tracking-stack/problem?isFullScreen=true)
 2. [Hackerrank: One-Pass Removal of k-th Node from End](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/one-pass-removal-kth-from-end/problem?isFullScreen=true)
+3. [Hello Interview: Design a Booking System](https://www.hellointerview.com/learn/system-design/problem-breakdowns/ticketmaster)
 
 ### Day 17: March 8, 2026
 
