@@ -290,7 +290,7 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 ### Day 20: March 11, 2026
 
 **Today's Progress**: 
-1.. Memorized templates for the most common data structures that I may come across in my job as a SWE
+1. Memorized templates for the most common data structures that I may come across in my job as a SWE
 
 
 **Link to work:** 
