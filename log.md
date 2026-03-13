@@ -257,3 +257,45 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 
 **Link to work:** 
 1. [Medium Article](https://indiscretemusings.substack.com/p/on-cloudflare?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)
+
+
+### Day 18: March 9, 2026
+
+**Today's Progress**: 
+1. Successfully coded a solution for Count Number Pairs in Hackerrank's Software Engineering Prep Kit
+
+**Link to work:** 
+1. [Hackerrank: Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/submissions/code/1405601353)
+
+### Day 19: March 10, 2026
+
+**Today's Progress**: 
+1. [Hello Interview: Design a URL Shortener](https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly)
+
+**Link to work:** 
+1. 
+
+
+### Day 20: March 11, 2026
+
+**Today's Progress**: 
+1. 
+
+**Link to work:** 
+1. 
+
+### Day 20: March 12, 2026
+
+**Today's Progress**: 
+1. 
+
+**Link to work:** 
+1. 
+
+### Day 19: March 13, 2026
+
+**Today's Progress**: 
+1. 
+
+**Link to work:** 
+1. 
