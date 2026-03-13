@@ -109,12 +109,15 @@ Diving into some Kubernetes and the Cloud Native Environment to better understan
 
 Alysa Liu's Ice Skating performance at the Olympics not only brought me to actual tears seeing her shine after countless hours of practice that lead to her performance at the Olympics, but it was a massive encouragement for me to always try to adopt her same type of attitude, passion for what she does, and her mindset as she competed for her country. My goal is to carry those same qualities into my career as a Software Engineer and in all that I do. My goal is not "to win" or "out-compete" others, but rather to do what I love while having fun for the benefit of myself and all those around me. 
 
+Studied some Cloudflare articles, studied over JavaScript and did a Leetcode problem.
+
 
 **Link to work:** 
 1. [Worked on Javascript Skills](https://learnjavascript.online/app.html?id=1780)
 2. [Video Inspiring Excellence: Alysa Liu](https://youtu.be/Dg0h9iZ1ZAg?si=cHzi8TkR-oWxYnHT)
 3. [Cloudflare video: Workflows Pt 1](https://youtu.be/slS4RBV0SBk)
 4. [Cloudflare video: Workflows Pt 2](https://youtu.be/y4PPsvHrQGA)
+5. [Leetcode Question: Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/1930162434/)
 
 
 ### Day 6: February 25, 2026
@@ -254,43 +257,56 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 
 **Today's Progress**: 
 1. Read more of the Medium Article on Cloudflare
+2. Successfully coded a solution for Two Sum in Hackerrank's Software Engineering Prep Kit
 
 **Link to work:** 
 1. [Medium Article](https://indiscretemusings.substack.com/p/on-cloudflare?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)
+2. [Hackerrank: Two Sum](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/time-slot-task-pairing/submissions/code/1405533240)
 
 
 ### Day 18: March 9, 2026
 
 **Today's Progress**: 
 1. Successfully coded a solution for Count Number Pairs in Hackerrank's Software Engineering Prep Kit
+2. Successfully coded a solution for Generate Valid Angle Bracket Sequences in Hackerrank's Software Engineering Prep Kit
+
 
 **Link to work:** 
 1. [Hackerrank: Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/submissions/code/1405601353)
+2. [Hackerrank: Generate Valid Angle Bracket Sequences](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/generate-valid-angle-bracket-sequences/submissions/code/1405576400)
 
 ### Day 19: March 10, 2026
 
 **Today's Progress**: 
-1. [Hello Interview: Design a URL Shortener](https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly)
+1. Studied how to system design a URL Shortner
+2. Solved Leetcode's LRU Cache coding problem
+
 
 **Link to work:** 
-1. 
+1. [Hello Interview: Design a URL Shortener](https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly)
+2. [Leetcode: LRU Cache](https://leetcode.com/problems/lru-cache/submissions/1944383771/)
 
 
 ### Day 20: March 11, 2026
 
 **Today's Progress**: 
-1. 
+1.. Memorized templates for the most common data structures that I may come across in my job as a SWE
+
 
 **Link to work:** 
-1. 
+1. [Algo Monster](https://algo.monster/templates)
+
 
 ### Day 20: March 12, 2026
 
 **Today's Progress**: 
-1. 
+1. Memorized templates for the most common data structures that I may come across in my job as a SWE
+2. Successfully coded a solution for One-Pass Removal of k-th Node from End in Hackerrank's Software Engineering Prep Kit
+
 
 **Link to work:** 
-1. 
+1. [Algo Monster](https://algo.monster/templates)
+2. [Hackerrank: One-Pass Removal of k-th Node from End](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/one-pass-removal-kth-from-end/submissions/code/1405532981)
 
 ### Day 19: March 13, 2026
 
