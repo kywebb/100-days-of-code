@@ -311,7 +311,9 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 ### Day 19: March 13, 2026
 
 **Today's Progress**: 
-1. 
+1. Read Cloudflare Docs on the fundamentals
+2. AI Deep Demo with Cloudflare
 
 **Link to work:** 
-1. 
+1. [Cloudflare: Fundamentals](https://developers.cloudflare.com/fundamentals/)
+2. [🎂 AI Deep Dive with Demos](https://cloudflare.tv/birthday-week/ai-deep-dive-with-demos/pvj4V4Zr)
