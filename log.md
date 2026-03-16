@@ -313,10 +313,14 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 **Today's Progress**: 
 1. Read Cloudflare Docs on the fundamentals
 2. AI Deep Demo with Cloudflare
+3. Solved Linked List Problems on Algo Monster
+
 
 **Link to work:** 
 1. [Cloudflare: Fundamentals](https://developers.cloudflare.com/fundamentals/)
 2. [🎂 AI Deep Dive with Demos](https://cloudflare.tv/birthday-week/ai-deep-dive-with-demos/pvj4V4Zr)
+3. [Algo Monster](https://algo.monster/)
+
 
 
 ### Day 23: March 14, 2026
@@ -324,10 +328,12 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 **Today's Progress**: 
 1. Solved Hackerrank: Count Number Pairs
 2. Solved Hackerrank: Remove Consecutive Duplicates from Sorted Linked List
+3. Solved Linked List Problems on Algo Monster
 
 **Link to work:** 
 1. [Hackerrank: Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/problem?isFullScreen=true)
 2. [Hackerrank: Remove Consecutive Duplicates from Sorted Linked List](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-consecutive-duplicates-sorted-list/submissions/code/1405786834)
+3. [Algo Monster](https://algo.monster/)
 
 
 ### Day 24: March 15, 2026
@@ -335,9 +341,13 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 **Today's Progress**: 
 1. Solved Hackerrank: Generate Valid Angle Bracket Sequences
 2. Solved Hackerrank: Remove Elements Within K Distance
+3. Solved Linked List Problems on Algo Monster
+
 
 **Link to work:** 
 1. [Hackerrank: Generate Valid Angle Bracket Sequences](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/generate-valid-angle-bracket-sequences/submissions/code/1405576400)
 2. [Hackerrank: Remove Elements Within K Distance](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-elements-within-k-distance/submissions/code/1405822713)
+3. 3. [Algo Monster](https://algo.monster/)
+
 
 
