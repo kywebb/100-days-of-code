@@ -297,7 +297,7 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 1. [Algo Monster](https://algo.monster/templates)
 
 
-### Day 20: March 12, 2026
+### Day 21: March 12, 2026
 
 **Today's Progress**: 
 1. Memorized templates for the most common data structures that I may come across in my job as a SWE
@@ -308,7 +308,7 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 1. [Algo Monster](https://algo.monster/templates)
 2. [Hackerrank: One-Pass Removal of k-th Node from End](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/one-pass-removal-kth-from-end/submissions/code/1405532981)
 
-### Day 19: March 13, 2026
+### Day 22: March 13, 2026
 
 **Today's Progress**: 
 1. Read Cloudflare Docs on the fundamentals
@@ -317,3 +317,27 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 **Link to work:** 
 1. [Cloudflare: Fundamentals](https://developers.cloudflare.com/fundamentals/)
 2. [🎂 AI Deep Dive with Demos](https://cloudflare.tv/birthday-week/ai-deep-dive-with-demos/pvj4V4Zr)
+
+
+### Day 23: March 14, 2026
+
+**Today's Progress**: 
+1. Solved Hackerrank: Count Number Pairs
+2. Solved Hackerrank: Remove Consecutive Duplicates from Sorted Linked List
+
+**Link to work:** 
+1. [Hackerrank: Count Number Pairs](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/problem?isFullScreen=true)
+2. [Hackerrank: Remove Consecutive Duplicates from Sorted Linked List](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-consecutive-duplicates-sorted-list/submissions/code/1405786834)
+
+
+### Day 24: March 15, 2026
+
+**Today's Progress**: 
+1. Solved Hackerrank: Generate Valid Angle Bracket Sequences
+2. Solved Hackerrank: Remove Elements Within K Distance
+
+**Link to work:** 
+1. [Hackerrank: Generate Valid Angle Bracket Sequences](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/generate-valid-angle-bracket-sequences/submissions/code/1405576400)
+2. [Hackerrank: Remove Elements Within K Distance](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-elements-within-k-distance/submissions/code/1405822713)
+
+
