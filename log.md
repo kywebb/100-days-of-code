@@ -351,3 +351,12 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 
 
 
+### Day 29: March 20, 2026
+
+**Today's Progress**: 
+1. Solved Hackerrank: Lexicographical Letter Combinations of Phone Digits
+
+
+**Link to work:** 
+1. [Hackerrank: Lexicographical Letter Combinations of Phone Digits](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lexicographical-letter-combinations-phone-digits/submissions/code/1406098836)
+
