@@ -347,16 +347,83 @@ Went over System Design concepts and Cloudflare's Architectural Doc. Having fun 
 **Link to work:** 
 1. [Hackerrank: Generate Valid Angle Bracket Sequences](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/generate-valid-angle-bracket-sequences/submissions/code/1405576400)
 2. [Hackerrank: Remove Elements Within K Distance](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-elements-within-k-distance/submissions/code/1405822713)
-3. 3. [Algo Monster](https://algo.monster/)
+3. [Algo Monster](https://algo.monster/)
+
+### Day 25: March 16, 2026
+
+**Today's Progress**: 
+1. Studied on Algo Monster
+
+**Link to work:** 
+1. [Algo Monster](https://algo.monster/)
+
+### Day 26: March 17, 2026
+
+**Today's Progress**: 
+1. Studied on Algo Monster
+
+**Link to work:** 
+1. [Algo Monster](https://algo.monster/)
+
+### Day 27: March 18, 2026
+
+**Today's Progress**: 
+1. Studied on Algo Monster
 
 
+**Link to work:** 
+1. [Algo Monster](https://algo.monster/)
+   
+
+### Day 28: March 19, 2026
+
+**Today's Progress**: 
+1. Studied on Algo Monster
+
+**Link to work:** 
+1. [Algo Monster](https://algo.monster/)
 
 ### Day 29: March 20, 2026
 
 **Today's Progress**: 
 1. Solved Hackerrank: Lexicographical Letter Combinations of Phone Digits
 
-
 **Link to work:** 
 1. [Hackerrank: Lexicographical Letter Combinations of Phone Digits](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lexicographical-letter-combinations-phone-digits/submissions/code/1406098836)
+
+
+### Day 30: March 21, 2026
+
+**Today's Progress**: 
+1. Studied on Algo Monster
+
+
+**Link to work:** 
+1. [Algo Monster](https://algo.monster/)
+
+### Day 31: March 22, 2026
+
+**Today's Progress**: 
+1. Studied on Algo Monster
+
+
+**Link to work:** 
+1. [Algo Monster](https://algo.monster/)
+
+### Day 32: March 23, 2026
+
+**Today's Progress**: 
+1. Studied on Algo Monster
+2. Solved Hackerrank problem: 
+
+
+**Link to work:** 
+1. [Algo Monster](https://algo.monster/)
+2. [Hackerrank](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/place-n-cameras-no-conflict-blocked-grid/submissions/code/1406188230)
+
+
+
+
+
+
 
